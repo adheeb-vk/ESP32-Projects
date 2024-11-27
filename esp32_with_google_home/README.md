@@ -107,4 +107,4 @@ Happy Hacking...!
 - Use the **Serial Monitor** to debug any connectivity issues.
 
 ### Connect with Me  
-For questions, suggestions, or collaboration, connect with me on [LinkedIn](www.linkedin.com/in/adheeb-v-k-6304b324b)
+For questions, suggestions, or collaboration, connect with me on [LinkedIn](https://www.linkedin.com/in/adheeb-v-k-6304b324b)
